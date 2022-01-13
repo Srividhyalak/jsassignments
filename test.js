@@ -30,7 +30,7 @@ document.getElementById("undef").innerHTML= y;  // undefined type
 
 let f = myfun(5 , 8 , 9); 
 let f2 = myfun(5 , 8 , 1 );
-function myfun (a,b,c)
+function myfun (a, b, c)
  {
      return a + b * c;
  };
